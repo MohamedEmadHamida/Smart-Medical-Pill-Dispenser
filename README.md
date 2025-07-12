@@ -91,6 +91,11 @@ For inquiries or collaboration, feel free to contact us!
 
 ---
 
+##🏆 Achievements
+🥇 1st Place - Regional Level in the "Geniuses - Integrated Systems" Competition.
+
+🥈 2nd Place - Nationwide in the "Science Club National Competition".
+
 ## 🪪 License
 
 This project is open-source and licensed under the [MIT License](./LICENSE).
