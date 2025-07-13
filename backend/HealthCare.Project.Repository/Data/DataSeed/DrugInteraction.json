@@ -1,0 +1,992 @@
+[
+  {
+    "Drug1": "Omeprazole",
+    "Drug2": "Clopidogrel",
+    "InteractionType": "Reduced Efficacy",
+    "Effect": "Decreased activation of clopidogrel"
+  },
+  {
+    "Drug1": "Omeprazole",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased INR",
+    "Effect": "Increased bleeding risk"
+  },
+  {
+    "Drug1": "Omeprazole",
+    "Drug2": "Diazepam",
+    "InteractionType": "Reduced Clearance",
+    "Effect": "Increased diazepam blood levels"
+  },
+  {
+    "Drug1": "Omeprazole",
+    "Drug2": "Phenytoin",
+    "InteractionType": "Reduced Clearance",
+    "Effect": "Increased phenytoin blood levels"
+  },
+  {
+    "Drug1": "Omeprazole",
+    "Drug2": "Digoxin",
+    "InteractionType": "Increased Absorption",
+    "Effect": "Potential digoxin toxicity"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Cimetidine",
+    "InteractionType": "Inhibits metabolism",
+    "Effect": "Increased plasma levels of carvedilol which may increase the risk of hypotension or bradycardia"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Amiodarone",
+    "InteractionType": "Synergistic effect",
+    "Effect": "May increase the risk of bradycardia or heart block"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Rifampin",
+    "InteractionType": "Induces metabolism",
+    "Effect": "Reduced effectiveness of carvedilol due to lower plasma levels"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Digoxin",
+    "InteractionType": "Increased effect",
+    "Effect": "Potential for increased risk of bradycardia or heart block due to synergistic action on heart rate"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Fluoxetine",
+    "InteractionType": "Inhibits metabolism",
+    "Effect": "Increased carvedilol plasma concentration which may enhance hypotensive or bradycardic effects"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Clonidine",
+    "InteractionType": "Synergistic effect",
+    "Effect": "May lead to excessive hypotension or bradycardia when used together"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Verapamil",
+    "InteractionType": "Additive effect",
+    "Effect": "Increased risk of bradycardia AV block or heart failure when combined"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Insulin",
+    "InteractionType": "Additive effect",
+    "Effect": "Carvedilol can mask signs of hypoglycemia such as increased heart rate"
+  },
+  {
+    "Drug1": "Carvedilol",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased bleeding",
+    "Effect": "Increased risk of bleeding when both drugs are used concurrently"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Clopidogrel",
+    "InteractionType": "Reduced Efficacy",
+    "Effect": "Decreased activation of clopidogrel reducing its antiplatelet effect"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased INR",
+    "Effect": "Increased bleeding risk due to higher INR levels"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Diazepam",
+    "InteractionType": "Reduced Clearance",
+    "Effect": "Increased blood levels of diazepam enhancing sedative effects"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Phenytoin",
+    "InteractionType": "Reduced Clearance",
+    "Effect": "Increased phenytoin blood levels potential toxicity"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Methotrexate",
+    "InteractionType": "Increased Absorption",
+    "Effect": "Increased methotrexate toxicity due to higher absorption"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Digoxin",
+    "InteractionType": "Increased Absorption",
+    "Effect": "Potential digoxin toxicity due to increased absorption"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Ketoconazole",
+    "InteractionType": "Reduced Absorption",
+    "Effect": "Reduced absorption of ketoconazole leading to reduced antifungal efficacy"
+  },
+  {
+    "Drug1": "Pantoprazole",
+    "Drug2": "Atazanavir",
+    "InteractionType": "Reduced Absorption",
+    "Effect": "Decreased efficacy of atazanavir due to reduced stomach acidity leading to drug failure"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Verapamil",
+    "InteractionType": "Additive Effect",
+    "Effect": "Increased risk of bradycardia"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Diltiazem",
+    "InteractionType": "Additive Effect",
+    "Effect": "Increased risk of bradycardia and hypotension due to synergistic effect on heart rate"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Insulin",
+    "InteractionType": "Masked Symptoms",
+    "Effect": "Masks symptoms of hypoglycemia"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Clonidine",
+    "InteractionType": "Synergistic Effect",
+    "Effect": "Increased risk of severe bradycardia"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Rifampin",
+    "InteractionType": "Induces Metabolism",
+    "Effect": "Decreased efficacy of bisoprolol due to increased metabolism"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Amiodarone",
+    "InteractionType": "Synergistic Effect",
+    "Effect": "Increased risk of bradycardia and heart block due to enhanced effects on slowing heart rate"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Digoxin",
+    "InteractionType": "Additive Effect",
+    "Effect": "Increased risk of bradycardia and heart block due to additive effects on AV node conduction"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "NSAIDs",
+    "InteractionType": "Antagonistic Effect",
+    "Effect": "Decreased antihypertensive effect of bisoprolol due to fluid retention and vasoconstriction"
+  },
+  {
+    "Drug1": "Bisoprolol",
+    "Drug2": "Fluoxetine",
+    "InteractionType": "Inhibits Metabolism",
+    "Effect": "Increased bisoprolol plasma levels"
+  },
+  {
+    "Drug1": "Famotidine",
+    "Drug2": "Ketoconazole",
+    "InteractionType": "Reduced Absorption",
+    "Effect": "Decreased effectiveness of ketoconazole"
+  },
+  {
+    "Drug1": "Famotidine",
+    "Drug2": "Atazanavir",
+    "InteractionType": "Reduced Bioavailability",
+    "Effect": "Decreased effectiveness of atazanavir"
+  },
+  {
+    "Drug1": "Famotidine",
+    "Drug2": "Sucralfate",
+    "InteractionType": "Reduced Absorption",
+    "Effect": "Decreased effectiveness of famotidine"
+  },
+  {
+    "Drug1": "Famotidine",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased Anticoagulant Effect",
+    "Effect": "Increased risk of bleeding"
+  },
+  {
+    "Drug1": "Famotidine",
+    "Drug2": "Theophylline",
+    "InteractionType": "Increased Half-Life",
+    "Effect": "Risk of theophylline toxicity"
+  },
+  {
+    "Drug1": "Famotidine",
+    "Drug2": "Aspirin",
+    "InteractionType": "Protective Effect",
+    "Effect": "Protective effect against gastric ulcers"
+  },
+  {
+    "Drug1": "Famotidine",
+    "Drug2": "Alcohol",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of famotidine"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "Verapamil",
+    "InteractionType": "Increased Effects",
+    "Effect": "Increased risk of bradycardia and hypotension"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "Diltiazem",
+    "InteractionType": "Increased Effects",
+    "Effect": "Increased risk of bradycardia and hypotension"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "Clonidine",
+    "InteractionType": "Rebound Hypertension",
+    "Effect": "Risk of rebound hypertension"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "NSAIDs",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of atenolol"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "Digoxin",
+    "InteractionType": "Increased Effects",
+    "Effect": "Increased risk of digoxin toxicity"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "Fluoxetine",
+    "InteractionType": "Increased Levels",
+    "Effect": "Increased risk of atenolol side effects"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "High-Fat Meals",
+    "InteractionType": "Decreased Absorption",
+    "Effect": "Variable absorption and effectiveness"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "Alcohol",
+    "InteractionType": "Increased Effects",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Atenolol",
+    "Drug2": "Caffeine",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of atenolol"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "Hydrochlorothiazide",
+    "InteractionType": "Increased Hypotension",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of captopril"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "Lithium",
+    "InteractionType": "Increased Toxicity",
+    "Effect": "Risk of lithium toxicity"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "Spironolactone",
+    "InteractionType": "Increased Hyperkalemia",
+    "Effect": "Increased risk of hyperkalemia"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "Other Antihypertensives",
+    "InteractionType": "Increased Hypotension",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "Allopurinol",
+    "InteractionType": "Increased Hypersensitivity",
+    "Effect": "Risk of allergic reactions"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "High-Potassium Foods",
+    "InteractionType": "Increased Hyperkalemia",
+    "Effect": "Increased risk of hyperkalemia"
+  },
+  {
+    "Drug1": "Captopril",
+    "Drug2": "Alcohol",
+    "InteractionType": "Increased Hypotension",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Diuretics (e.g.",
+    "InteractionType": "Hydrochlorothiazide)",
+    "Effect": "Increased Hypotension"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "NSAIDs (e.g.",
+    "InteractionType": "Ibuprofen)",
+    "Effect": "Decreased Effectiveness"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Lithium",
+    "InteractionType": "Increased Toxicity",
+    "Effect": "Risk of lithium toxicity"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Potassium-Sparing Diuretics (e.g.",
+    "InteractionType": "Spironolactone)",
+    "Effect": "Increased Hyperkalemia"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Other Antihypertensives",
+    "InteractionType": "Increased Hypotension",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Allopurinol",
+    "InteractionType": "Increased Hypersensitivity",
+    "Effect": "Risk of allergic reactions"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "High-Potassium Foods",
+    "InteractionType": "Increased Hyperkalemia",
+    "Effect": "Increased risk of hyperkalemia"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Alcohol",
+    "InteractionType": "Increased Hypotension",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Smoking",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of candesartan"
+  },
+  {
+    "Drug1": "Candesartan",
+    "Drug2": "Genetic Variants Affecting ACE",
+    "InteractionType": "Variable Effectiveness",
+    "Effect": "Variable effectiveness based on genetics"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Simvastatin",
+    "InteractionType": "Increased Levels",
+    "Effect": "Increased risk of statin toxicity"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Diltiazem",
+    "InteractionType": "Increased Effects",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Grapefruit Juice",
+    "InteractionType": "Increased Levels",
+    "Effect": "Increased risk of side effects"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Other Antihypertensives",
+    "InteractionType": "Increased Effects",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Ketoconazole",
+    "InteractionType": "Increased Levels",
+    "Effect": "Increased risk of side effects"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "High-Fat Meals",
+    "InteractionType": "Increased Absorption",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Alcohol",
+    "InteractionType": "Increased Effects",
+    "Effect": "Increased risk of hypotension"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Smoking",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of amlodipine"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of amlodipine"
+  },
+  {
+    "Drug1": "Amlodipine",
+    "Drug2": "Genetic Variants Affecting CYP3A4",
+    "InteractionType": "Variable Effectiveness",
+    "Effect": "Variable effectiveness based on genetics"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased Anticoagulant Effect",
+    "Effect": "Increased risk of bleeding"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "Clopidogrel",
+    "InteractionType": "No Significant Interaction",
+    "Effect": "No significant interaction"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "Digoxin",
+    "InteractionType": "Increased Serum Levels",
+    "Effect": "Risk of digoxin toxicity"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "Ketoconazole",
+    "InteractionType": "Increased Plasma Concentration",
+    "Effect": "Increased risk of side effects"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "CYP2C19 Substrates",
+    "InteractionType": "Variable Effectiveness",
+    "Effect": "Variable effectiveness based on drug"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "High-Fat Meals",
+    "InteractionType": "Increased Absorption",
+    "Effect": "Increased effectiveness"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "Alcohol",
+    "InteractionType": "Increased Gastrointestinal Irritation",
+    "Effect": "Increased risk of gastrointestinal side effects"
+  },
+  {
+    "Drug1": "Vonoprazan",
+    "Drug2": "Smoking",
+    "InteractionType": "Decreased Effectiveness",
+    "Effect": "Decreased effectiveness of vonoprazan"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Alcohol",
+    "InteractionType": "Increased Lactic Acidosis Risk",
+    "Effect": "Higher risk of lactic acidosis"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Furosemide",
+    "InteractionType": "Increased Blood Sugar",
+    "Effect": "Potential loss of blood sugar control"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Atenolol",
+    "InteractionType": "Masking of Hypoglycemia",
+    "Effect": "May mask symptoms of low blood sugar"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Cimetidine",
+    "InteractionType": "Reduced Metformin Clearance",
+    "Effect": "Increased levels of metformin in blood"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Lisinopril",
+    "InteractionType": "Enhanced Blood Sugar Control",
+    "Effect": "May increase metformin’s glucose-lowering effect"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Iodinated Contrast Media",
+    "InteractionType": "Increased Lactic Acidosis Risk",
+    "Effect": "Higher risk of lactic acidosis"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Prednisone",
+    "InteractionType": "Increased Blood Sugar",
+    "Effect": "Reduced blood sugar-lowering effect of metformin"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Calcium Channel Blockers",
+    "InteractionType": "Reduced Effectiveness",
+    "Effect": "Potential decrease in metformin effectiveness"
+  },
+  {
+    "Drug1": "Glucophage",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Increased Lactic Acidosis Risk",
+    "Effect": "Higher risk of lactic acidosis"
+  },
+  {
+    "Drug1": "Amaryl",
+    "Drug2": "Propranolol",
+    "InteractionType": "Masked Hypoglycemia Symptoms",
+    "Effect": "May mask symptoms of hypoglycemia (e.g."
+  },
+  {
+    "Drug1": "Amaryl",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Enhanced blood sugar-lowering effect"
+  },
+  {
+    "Drug1": "Amaryl",
+    "Drug2": "Lisinopril",
+    "InteractionType": "Variable Effect",
+    "Effect": "May increase or decrease blood sugar control"
+  },
+  {
+    "Drug1": "Amaryl",
+    "Drug2": "Prednisone",
+    "InteractionType": "Reduced Effectiveness",
+    "Effect": "Potential for increased blood sugar"
+  },
+  {
+    "Drug1": "Amaryl",
+    "Drug2": "Ciprofloxacin",
+    "InteractionType": "Altered Blood Sugar Levels",
+    "Effect": "Risk of hypoglycemia or hyperglycemia"
+  },
+  {
+    "Drug1": "Amaryl",
+    "Drug2": "Fluconazol",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Enhanced blood sugar-lowering effect risk of hypoglycemia"
+  },
+  {
+    "Drug1": "Amaryl",
+    "Drug2": "Rifampin",
+    "InteractionType": "Reduced Effectiveness",
+    "Effect": "Potential for increased blood sugar"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Furosemide",
+    "InteractionType": "Increased Risk of Dehydration",
+    "Effect": "May enhance the diuretic effect"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Lisinopril",
+    "InteractionType": "Enhanced Risk of Hypotension",
+    "Effect": "Increased risk of low blood pressure"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Insulin",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Combined effect may lower blood sugar excessively"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Glimepiride",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Higher risk of hypoglycemia when combined with SGLT2 inhibitors"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Increased Risk of Kidney Injury",
+    "Effect": "Increased risk of kidney issues"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Prednisone",
+    "InteractionType": "Decreased Efficacy",
+    "Effect": "Potential to raise blood sugar"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Digoxin",
+    "InteractionType": "Increased Risk of Electrolyte Imbalance",
+    "Effect": "Can cause electrolyte changes"
+  },
+  {
+    "Drug1": "Dapagliflozin",
+    "Drug2": "Rifampin",
+    "InteractionType": "Reduced Efficacy",
+    "Effect": "May reduce blood levels of dapagliflozin"
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Insulin",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Higher risk of hypoglycemia when combined with insulin"
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Glimepiride",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Increased risk of hypoglycemia due to combined blood sugar-lowering effects"
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Lisinopril",
+    "InteractionType": "Increased Risk of Angioedema",
+    "Effect": "Higher chance of angioedema (swelling) when used together"
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Prednisone",
+    "InteractionType": "Decreased Efficacy",
+    "Effect": "Possible reduction in blood sugar-lowering effects"
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Hydrochlorothiazide",
+    "InteractionType": "Decreased Efficacy",
+    "Effect": "May reduce blood sugar-lowering effect"
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Propranolol",
+    "InteractionType": "Masked Hypoglycemia Symptoms",
+    "Effect": "May hide symptoms of hypoglycemia (e.g."
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Increased Risk of Hypoglycemia",
+    "Effect": "Potential for increased hypoglycemia"
+  },
+  {
+    "Drug1": "Vildagliptin",
+    "Drug2": "Rifampin",
+    "InteractionType": "Reduced Efficacy",
+    "Effect": "Possible decrease in vildagliptin's blood sugar-lowering effect"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Furosemide",
+    "InteractionType": "Increased Risk of Dehydration",
+    "Effect": "Diuretics may enhance the dehydration effect of Glucovance"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Insulin",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Combination increases risk of low blood sugar"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Prednisone",
+    "InteractionType": "Decreased Efficacy",
+    "Effect": "May raise blood sugar"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Lisinopril",
+    "InteractionType": "Enhanced Hypoglycemia Risk",
+    "Effect": "ACE inhibitors may enhance blood sugar-lowering effects"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Enhanced Hypoglycemia Risk",
+    "Effect": "NSAIDs may enhance the hypoglycemic effect"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Propranolol",
+    "InteractionType": "Masked Hypoglycemia Symptoms",
+    "Effect": "Beta-blockers may hide symptoms of hypoglycemia"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Cimetidine",
+    "InteractionType": "Increased Risk of Lactic Acidosis",
+    "Effect": "Cimetidine can increase blood levels of metformin"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Digoxin",
+    "InteractionType": "Reduced Metformin Clearance",
+    "Effect": "May lead to higher blood levels of metformin"
+  },
+  {
+    "Drug1": "Glucovance",
+    "Drug2": "Rifampin",
+    "InteractionType": "Reduced Efficacy",
+    "Effect": "May decrease blood levels of Glucovance"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Furosemide",
+    "InteractionType": "Increased Risk of Dehydration",
+    "Effect": "May enhance dehydration and electrolyte imbalance"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Insulin",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Higher risk of hypoglycemia when used with insulin"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Glimepiride",
+    "InteractionType": "Increased Hypoglycemia Risk",
+    "Effect": "Increased risk of low blood sugar due to combined effects"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Lisinopril",
+    "InteractionType": "Enhanced Hypoglycemia Risk",
+    "Effect": "ACE inhibitors can further lower blood sugar"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Prednisone",
+    "InteractionType": "Decreased Efficacy",
+    "Effect": "Can raise blood sugar"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Enhanced Hypoglycemia Risk",
+    "Effect": "Potential for increased hypoglycemia when combined"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Propranolol",
+    "InteractionType": "Masked Hypoglycemia Symptoms",
+    "Effect": "May hide symptoms of hypoglycemia"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Digoxin",
+    "InteractionType": "Reduced Metformin Clearance",
+    "Effect": "Possible increase in metformin levels"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Cimetidine",
+    "InteractionType": "Increased Risk of Lactic Acidosis",
+    "Effect": "Can increase metformin levels"
+  },
+  {
+    "Drug1": "Metformin + Vildagliptin",
+    "Drug2": "Rifampin",
+    "InteractionType": "Reduced Efficacy",
+    "Effect": "May lower effectiveness of Gliptus Plus by reducing blood levels"
+  },
+  {
+    "Drug1": "Aspirin",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Competitive Inhibition",
+    "Effect": "Reduced efficacy of aspirin as an antiplatelet agent"
+  },
+  {
+    "Drug1": "Aspirin",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased Bleeding Risk",
+    "Effect": "Enhanced anticoagulant effect of warfarin leading to bleeding risk"
+  },
+  {
+    "Drug1": "Metformin",
+    "Drug2": "Cimetidine",
+    "InteractionType": "Reduced Clearance",
+    "Effect": "Increased metformin blood levels, potential for lactic acidosis"
+  },
+  {
+    "Drug1": "Metformin",
+    "Drug2": "Furosemide",
+    "InteractionType": "Increased Metformin Levels",
+    "Effect": "Higher risk of hypoglycemia due to elevated metformin levels"
+  },
+  {
+    "Drug1": "Lisinopril",
+    "Drug2": "Ibuprofen",
+    "InteractionType": "Reduced Antihypertensive Effect",
+    "Effect": "Decreased blood pressure control from ACE inhibitor"
+  },
+  {
+    "Drug1": "Lisinopril",
+    "Drug2": "Potassium Chloride",
+    "InteractionType": "Hyperkalemia Risk",
+    "Effect": "Increased potassium levels may lead to hyperkalemia"
+  },
+  {
+    "Drug1": "Simvastatin",
+    "Drug2": "Itraconazole",
+    "InteractionType": "Inhibits Metabolism",
+    "Effect": "Increased statin levels may lead to myopathy or rhabdomyolysis"
+  },
+  {
+    "Drug1": "Simvastatin",
+    "Drug2": "Grapefruit Juice",
+    "InteractionType": "Inhibits Metabolism",
+    "Effect": "Elevated simvastatin levels, risk of muscle toxicity"
+  },
+  {
+    "Drug1": "Ciprofloxacin",
+    "Drug2": "Tizanidine",
+    "InteractionType": "Increased CNS Depression",
+    "Effect": "Enhanced sedative effects, risk of drowsiness and dizziness"
+  },
+  {
+    "Drug1": "Ciprofloxacin",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased INR",
+    "Effect": "Elevated bleeding risk due to increased warfarin effect"
+  },
+  {
+    "Drug1": "Fluoxetine",
+    "Drug2": "Tramadol",
+    "InteractionType": "Serotonin Syndrome Risk",
+    "Effect": "Increased risk of serotonin syndrome with concurrent use"
+  },
+  {
+    "Drug1": "Fluoxetine",
+    "Drug2": "Amitriptyline",
+    "InteractionType": "Inhibits Metabolism",
+    "Effect": "Elevated amitriptyline levels, increased sedation and anticholinergic effects"
+  },
+  {
+    "Drug1": "Levofloxacin",
+    "Drug2": "Theophylline",
+    "InteractionType": "Inhibits Clearance",
+    "Effect": "Elevated theophylline levels, risk of toxicity (nausea, tremor)"
+  },
+  {
+    "Drug1": "Levofloxacin",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased INR",
+    "Effect": "Enhanced anticoagulant effect, elevated bleeding risk"
+  },
+  {
+    "Drug1": "Losartan",
+    "Drug2": "Spironolactone",
+    "InteractionType": "Additive Effect",
+    "Effect": "Increased risk of hyperkalemia due to combined potassium retention effects"
+  },
+  {
+    "Drug1": "Losartan",
+    "Drug2": "Lithium",
+    "InteractionType": "Reduced Lithium Clearance",
+    "Effect": "Risk of lithium toxicity due to impaired renal clearance"
+  },
+  {
+    "Drug1": "Omeprazole",
+    "Drug2": "Methotrexate",
+    "InteractionType": "Inhibits Clearance",
+    "Effect": "Elevated methotrexate levels, risk of toxicity (myelosuppression, mucositis)"
+  },
+  {
+    "Drug1": "Omeprazole",
+    "Drug2": "Ketoconazole",
+    "InteractionType": "Reduced Absorption",
+    "Effect": "Decreased effectiveness of ketoconazole due to reduced gastric acidity"
+  },
+  {
+    "Drug1": "Rifampin",
+    "Drug2": "Oral Contraceptives",
+    "InteractionType": "Induces Metabolism",
+    "Effect": "Reduced contraceptive effectiveness due to faster metabolism"
+  },
+  {
+    "Drug1": "Rifampin",
+    "Drug2": "Warfarin",
+    "InteractionType": "Reduced Effectiveness",
+    "Effect": "Lower warfarin levels, reduced anticoagulant effect"
+  },
+  {
+    "Drug1": "Sertraline",
+    "Drug2": "Linezolid",
+    "InteractionType": "Serotonin Syndrome Risk",
+    "Effect": "Increased serotonin syndrome risk due to additive serotonergic effects"
+  },
+  {
+    "Drug1": "Sertraline",
+    "Drug2": "Clopidogrel",
+    "InteractionType": "Reduced Activation",
+    "Effect": "Decreased activation of clopidogrel, potential for reduced efficacy"
+  },
+  {
+    "Drug1": "Warfarin",
+    "Drug2": "Acetaminophen",
+    "InteractionType": "Increased INR",
+    "Effect": "Potential bleeding risk with high doses of acetaminophen"
+  },
+  {
+    "Drug1": "Warfarin",
+    "Drug2": "Levothyroxine",
+    "InteractionType": "Increased INR",
+    "Effect": "Higher bleeding risk due to enhanced warfarin effect"
+  },
+  {
+    "Drug1": "Diltiazem",
+    "Drug2": "Simvastatin",
+    "InteractionType": "Inhibits Metabolism",
+    "Effect": "Elevated simvastatin levels, risk of myopathy"
+  },
+  {
+    "Drug1": "Diltiazem",
+    "Drug2": "Ciclosporin",
+    "InteractionType": "Inhibits Clearance",
+    "Effect": "Increased ciclosporin levels, potential for nephrotoxicity"
+  },
+  {
+    "Drug1": "Verapamil",
+    "Drug2": "Dabigatran",
+    "InteractionType": "Reduced Clearance",
+    "Effect": "Elevated dabigatran levels, risk of bleeding"
+  },
+  {
+    "Drug1": "Verapamil",
+    "Drug2": "Clonidine",
+    "InteractionType": "Additive Effect",
+    "Effect": "Increased risk of bradycardia with combined use"
+  },
+  {
+    "Drug1": "Clarithromycin",
+    "Drug2": "Warfarin",
+    "InteractionType": "Increased INR",
+    "Effect": "Elevated bleeding risk from increased warfarin effect"
+  },
+  {
+    "Drug1": "Clarithromycin",
+    "Drug2": "Simvastatin",
+    "InteractionType": "Inhibits Metabolism",
+    "Effect": "Elevated statin levels, risk of muscle damage"
+  },
+  {
+    "Drug1": "Clopidogrel",
+    "Drug2": "Esomeprazole",
+    "InteractionType": "Reduced Efficacy",
+    "Effect": "Decreased activation of clopidogrel, reduced antiplatelet effect"
+  }
+]
