@@ -6,6 +6,9 @@ An IoT-powered, AI-enhanced smart pill dispenser designed to improve medication 
 
 ## 📸 Device Preview
 
+[3D Render]
+./images/3DRender.png
+
 | Powered On                             | Internal View                          |
 |----------------------------------------|----------------------------------------|
 | ![Powered On](./images/powered-on.png) | ![Internal](./images/inside-view.jpg)  |
@@ -91,7 +94,7 @@ For inquiries or collaboration, feel free to contact us!
 
 ---
 
-##🏆 Achievements
+## 🏆 Achievements
 🥇 1st Place - Regional Level in the "Geniuses - Integrated Systems" Competition.
 
 🥈 2nd Place - Nationwide in the "Science Club National Competition".
