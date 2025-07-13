@@ -17,7 +17,7 @@ An IoT-powered, AI-enhanced smart pill dispenser designed to improve medication 
 
 ## 🎞 Demo
 
-![Demo GIF](./gifs/device-demo.gif)
+![Demo GIF](./gifs/TempSensor.gif)
 
 ---
 
