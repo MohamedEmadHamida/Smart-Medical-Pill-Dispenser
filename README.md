@@ -6,8 +6,7 @@ An IoT-powered, AI-enhanced smart pill dispenser designed to improve medication 
 
 ## 📸 Device Preview
 
-[3D Render]
-./images/3DRender.png
+![3D Render](./images/3DRender.png)
 
 | Powered On                             | Internal View                          |
 |----------------------------------------|----------------------------------------|
